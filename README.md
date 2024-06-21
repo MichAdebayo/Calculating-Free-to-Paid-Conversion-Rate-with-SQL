@@ -58,7 +58,7 @@ The project utilizes the db_course_conversions database, consisting of three tab
 **# Data Retrieval:** Retrieves the data for student ID 268727 from the db_course_conversions table to determine the date of first engagement (i.e., first date watched).
 
 
-**Main Results and Interpretation**
+## **Main Results and Interpretation**
 
 * **Conversion Rate:** The conversion rate of 11% indicates that approximately 11 out of every 100 students who engage with the 365 Data Science platform end up making a purchase. This suggests a moderate level of success in converting engaged users into paying customers.
 
