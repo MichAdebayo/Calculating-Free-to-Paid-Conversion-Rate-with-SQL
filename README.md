@@ -16,9 +16,9 @@ The project utilizes the db_course_conversions database, consisting of three tab
 
 ## **Approach**
 
-(a) **Data Inspection**: First, the existing tables are inspected to understand their structure and content.
+**(A)** **Data Inspection**: First, the existing tables are inspected to understand their structure and content.
 
-(b) **Dataset Creation:** a new result dataset is created, comprising the following columns:
+**(B)** **Dataset Creation:** a new result dataset is created, comprising the following columns:
 
 * **student_id** – (int) the unique identification of a student
 
@@ -32,13 +32,13 @@ The project utilizes the db_course_conversions database, consisting of three tab
 
 * **date_diff_watch_purch** – (int) the difference in days between the date of first-time engagement and the date of first-time purchase (NULL if they have no purchases)
 
-(c) **Table Creation:**  A new table named db_course_conversions is created to store this newly aggregated dataset.
+**(C)** **Table Creation:**  A new table named db_course_conversions is created to store this newly aggregated dataset.
 
-(d) **SQL Query:** A main query (query to calculate desired metrics) and sub-query (query for the new dataset) are combined to calculate the required metrics such as conversion rate, average registration-to-watch duration, and average watch-to-purchase duration.
+**(D)** **SQL Query:** A main query (query to calculate desired metrics) and sub-query (query for the new dataset) are combined to calculate the required metrics such as conversion rate, average registration-to-watch duration, and average watch-to-purchase duration.
 
-(e) **Execution:** The SQL query is executed to generate the desired metrics.
+**(E)** **Execution:** The SQL query is executed to generate the desired metrics.
 
-(f) **Data Interpretation:** The result of the analysis is interpreted.
+**(F)** **Data Interpretation:** The result of the analysis is interpreted.
 
 
 ## **SQL Script Overview**
