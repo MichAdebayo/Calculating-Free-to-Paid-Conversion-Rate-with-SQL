@@ -64,6 +64,6 @@ FROM
     HAVING MIN(se.date_watched) <= MIN(sp.date_purchased)
         OR MIN(sp.date_purchased) IS NULL) AS a;
     
-# Retrieve details about a specific student to  determine thier first watch date
+# Retrieve details about a specific student to  determine their first watch date
 
 Select * from db_course_conversions where student_id = 268727;
