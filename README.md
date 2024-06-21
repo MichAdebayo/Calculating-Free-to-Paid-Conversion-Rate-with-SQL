@@ -60,13 +60,13 @@ The project utilizes the db_course_conversions database, consisting of three tab
 
 **Main Results and Interpretation**
 
-(1) **Conversion Rate:** The conversion rate of 11% indicates that approximately 11 out of every 100 students who engage with the 365 Data Science platform end up making a purchase. This suggests a moderate level of success in converting engaged users into paying customers.
+* **Conversion Rate:** The conversion rate of 11% indicates that approximately 11 out of every 100 students who engage with the 365 Data Science platform end up making a purchase. This suggests a moderate level of success in converting engaged users into paying customers.
 
-(2) **Registration-to-Watch Duration:** The average duration of 3 days from registration to watching the first lecture indicates that users are relatively quick to engage with the platform content after signing up. This suggests strong initial interest and motivation among users.
+* **Registration-to-Watch Duration:** The average duration of 3 days from registration to watching the first lecture indicates that users are relatively quick to engage with the platform content after signing up. This suggests strong initial interest and motivation among users.
 
-(3) **Watch-to-Purchase Duration:** The average duration of 26 days from watching the first lecture to making a purchase suggests that there is a significant gap between engagement with the platform content and conversion to paying customers. This could indicate that users take time to evaluate the platform before deciding to make a purchase.
+* **Watch-to-Purchase Duration:** The average duration of 26 days from watching the first lecture to making a purchase suggests that there is a significant gap between engagement with the platform content and conversion to paying customers. This could indicate that users take time to evaluate the platform before deciding to make a purchase.
 
-(4) The student with ID 268727 first watched a video on the 365 Data Science platform on the 27th of March 2022 but never made a purchase afterward.
+* The student with ID 268727 first watched a video on the 365 Data Science platform on the 27th of March 2022 but never made a purchase afterward.
 
 ## **Recommendations & Conclusion**
 
