@@ -68,16 +68,16 @@ The project utilizes the db_course_conversions database, consisting of three tab
 
 (4) The student with ID 268727 first watched a video on the 365 Data Science platform on the 27th of March 2022 but never made a purchase afterward.
 
-**Recommendations & Conclusion**
+## **Recommendations & Conclusion**
 
 Based on the results, the following actions are recommended to improve conversion rate and reduce the Watch-to-Purchase Duration: 
 
-1. **Targeted Marketing:** Develop targeted marketing strategies to encourage more users to convert to paying customers. This could include personalized email campaigns, "hard-to-reject" promotional offers, or targeted advertisements based on user engagement behavior.
+**1.** **Targeted Marketing:** Develop targeted marketing strategies to encourage more users to convert to paying customers. This could include personalized email campaigns, "hard-to-reject" promotional offers, or targeted advertisements based on user engagement behavior.
 
-2. **Nurture Leads:** Implement lead nurturing strategies to engage users who have watched platform content but have not yet made a purchase. This could involve sending follow-up emails with additional resources, offering free trials or demos (for more days than currently offered), or providing incentives to encourage conversion.
+**2.** **Nurture Leads:** Implement lead nurturing strategies to engage users who have watched platform content but have not yet made a purchase. This could involve sending follow-up emails with additional resources, offering free trials or demos (for more days than currently offered), or providing incentives to encourage conversion.
 
-3. **Optimize Content:** Analyze platform content to identify high-performing topics or courses that drive conversion and prioritize the creation of similar content. Additionally, optimize content placement and recommendations to guide users towards courses that are more likely to lead to conversion.
+**3.** **Optimize Content:** Analyze platform content to identify high-performing topics or courses that drive conversion and prioritize the creation of similar content. Additionally, optimize content placement and recommendations to guide users towards courses that are more likely to lead to conversion.
 
-4. **Track and Analyze:** Continuously track and analyze user engagement metrics to identify trends, patterns, and areas for improvement. Use data-driven insights to refine marketing strategies, enhance the user experience, and optimize conversion funnels over time.
+**4.** **Track and Analyze:** Continuously track and analyze user engagement metrics to identify trends, patterns, and areas for improvement. Use data-driven insights to refine marketing strategies, enhance the user experience, and optimize conversion funnels over time.
    
 In conclusion, current conversion rate suggests that the 365 Data Science platform has a good free-to-paid conversion rate of students engaging with courses on the platform. However, focus needs to be turned on strategies to reduce the average Watch-to-Purchase Duration. Overall, the resulting metrics provide valuable insights into user behavior and the effectiveness of the platform's monetization strategy.
