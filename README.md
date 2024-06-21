@@ -7,11 +7,11 @@ The **aim** of this project is to calculate the conversion rate of students who 
 
 The project utilizes the db_course_conversions database, consisting of three tables:
 
-**student_engagement**: Contains data on student engagement, including the date of watching a lecture.
+* **student_engagement**: Contains data on student engagement, including the date of watching a lecture.
 
-**student_info**: Stores information about students, including their registration date.
+* **student_info**: Stores information about students, including their registration date.
 
-**student_purchases**: Records data related to student purchases, including the date of purchase.
+* **student_purchases**: Records data related to student purchases, including the date of purchase.
 
 
 ## **Approach**
@@ -20,17 +20,17 @@ The project utilizes the db_course_conversions database, consisting of three tab
 
 (b) **Dataset Creation:** a new result dataset is created, comprising the following columns:
 
-**student_id** – (int) the unique identification of a student
+* **student_id** – (int) the unique identification of a student
 
-**date_registered** – (date) the date on which the student registered on the 365 platform
+* **date_registered** – (date) the date on which the student registered on the 365 platform
 
-**first_date_watched** – (date) the date of the first engagement
+* **first_date_watched** – (date) the date of the first engagement
 
-**first_date_purchased** – (date) the date of first-time purchase (NULL if they have no purchases)
+* **first_date_purchased** – (date) the date of first-time purchase (NULL if they have no purchases)
 
-**date_diff_reg_watch** – (int) the difference in days between the registration date and the date of first-time engagement
+* **date_diff_reg_watch** – (int) the difference in days between the registration date and the date of first-time engagement
 
-**date_diff_watch_purch** – (int) the difference in days between the date of first-time engagement and the date of first-time purchase (NULL if they have no purchases)
+* **date_diff_watch_purch** – (int) the difference in days between the date of first-time engagement and the date of first-time purchase (NULL if they have no purchases)
 
 (c) **Table Creation:**  A new table named db_course_conversions is created to store this newly aggregated dataset.
 
