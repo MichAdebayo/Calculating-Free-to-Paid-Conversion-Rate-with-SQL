@@ -43,19 +43,19 @@ The project utilizes the db_course_conversions database, consisting of three tab
 
 ## **SQL Script Overview**
 
-**Choose Database:** Selects the database db_course_conversions to use for the project.
+**# Choose Database:** Selects the database db_course_conversions to use for the project.
 
-**Inspect Tables:** Displays the contents of the existing tables student_engagement, student_info, and student_purchases.
+**# Inspect Tables:** Displays the contents of the existing tables student_engagement, student_info, and student_purchases.
 
-**Create Table:** Creates a new table db_course_conversions with appropriate columns to store the aggregated data.
+**# Create Table:** Creates a new table db_course_conversions with appropriate columns to store the aggregated data.
 
-**Create Sub-query:** Aggregates new result dataset.
+**# Create Sub-query:** Aggregates new result dataset.
 
-**Insert Results:** Inserts the results of the sub SQL query into the db_course_conversions table.
+**# Insert Results:** Inserts the results of the sub SQL query into the db_course_conversions table.
 
-**Combine Main SQL Query & Sub-query:** Computes the conversion rate and other metrics using a complex SQL query involving joins, aggregations, and calculations.
+**# Combine Main SQL Query & Sub-query:** Computes the conversion rate and other metrics using a complex SQL query involving joins, aggregations, and calculations.
 
-**Data Retrieval:** Retrieves the data for student ID 268727 from the db_course_conversions table to determine the date of first engagement (i.e., first date watched).
+**# Data Retrieval:** Retrieves the data for student ID 268727 from the db_course_conversions table to determine the date of first engagement (i.e., first date watched).
 
 
 **Main Results and Interpretation**
