@@ -5,7 +5,7 @@
 The aim of this project is to calculate the conversion rate of students who transition from being free users to paid users after engaging with a course. This involves determining the fraction of students who convert to paying ones after starting a course on the platform.
 
 
-**Dataset**
+## **Dataset**
 
 The project utilizes the db_course_conversions database, consisting of three tables:
 
@@ -16,7 +16,7 @@ The project utilizes the db_course_conversions database, consisting of three tab
 **student_purchases**: Records data related to student purchases, including the date of purchase.
 
 
-**Approach**
+## **Approach**
 
 (a) **Data Inspection**: First, the existing tables are inspected to understand their structure and content.
 
@@ -43,7 +43,7 @@ The project utilizes the db_course_conversions database, consisting of three tab
 (f) **Data Interpretation:** The result of the analysis is interpreted.
 
 
-**SQL Script Overview**
+## **SQL Script Overview**
 
 **Choose Database:** Selects the database db_course_conversions to use for the project.
 
