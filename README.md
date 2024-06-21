@@ -1,8 +1,6 @@
 # Calculating-Free-to-Paid-Conversion-Rate-with-SQL
 
-**Aim**
-
-The aim of this project is to calculate the conversion rate of students who transition from being free users to paid users after engaging with a course. This involves determining the fraction of students who convert to paying ones after starting a course on the platform.
+The **aim** of this project is to calculate the conversion rate of students who transition from being free users to paid users after engaging with a course. This involves determining the fraction of students who convert to paying ones after starting a course on the platform.
 
 
 ## **Dataset**
